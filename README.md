@@ -25,25 +25,27 @@
       # HR-AtliQ-Dashboard
       <img width="1303" height="732" alt="Screenshot 2026-01-13 195804" src="https://github.com/user-attachments/assets/c1287009-f559-44bb-a6fa-7a3b3a808bd9" />
 
-### * Project Insights*
+# Project Insights
 
-### *1. Weekly Work Patterns*
-*   *Most Popular Office Day:* The data revealed that *Mondays have the highest physical presence* in the office.
-*   *Most Popular WFH Day:* Conversely, *Fridays have the highest percentage of people working from home*. Employees often prefer remote work at the end of the week to combine it with the weekend.
+### *1. Weekly Work Habits*
+*   *Most Popular Office Day:* The data showed that *Mondays have the highest physical presence* in the office.
+*   *Most Popular WFH Day:* Conversely, *Fridays are the days when most people prefer to work from home* .
 
-### *2. Strategic Office Management*
-*   *Cost Savings:* Since the office is largely empty on Fridays, the company can save money by scheduling *building maintenance or electricity repairs* on those days. 
-*   *Hybrid Planning:* The insights allow the company to consider a *hybrid work model*, which could reduce the need for large rental spaces and lower infrastructure costs.
-*   *Team Activities:* To ensure the maximum number of people are together, the company should schedule *team-building activities and lunches on Mondays*.
+### *2. Smarter Office Planning*
+*   *Saving Money:* Because the office is mostly empty on Fridays, the company can save on *electricity and infrastructure costs* by scheduling building maintenance or repairs on those days.
+*   *Team Activities:* To ensure the most people are together, the company can now plan *team-building activities and lunches on Mondays*.
+*   *Hybrid Work Model:* Insights into how often people work remotely help the company move toward a *hybrid work model*, which could eventually reduce the need for large rental spaces.
 
-### *3. Health and Wellness Monitoring*
-*   *Early Warning Signs:* By tracking *Sick Leave %*, the dashboard can identify sudden spikes that aren't a coincidence].
-*   *Proactive Care:* These insights allow HR to take *precautionary measures*, such as arranging flu shots or increasing office sanitization if a seasonal illness or outbreak (like COVID-19) is detected.
+### *3. Health and Project Management*
+*   *Tracking Sick Leave:* The dashboard monitors spikes in sick leave to help HR identify *seasonal flu or health outbreaks* (like COVID-19 or Dengue) and take precautions like office sanitization .
+*   *Better Deadlines:* By identifying "Hot Zones"—periods when many people are absent due to festivals like Diwali or marriage seasons—management can *plan software release schedules* more realistically to avoid overloading a small staff.
 
-### *4. Better Project Planning*
-*   *Release Schedules:* Managers can use historical trends to see when presence is naturally low, such as during *Diwali or marriage seasons*.
-*   *Capacity Planning:* By knowing when employees are likely to take long leaves, leadership can *plan software releases and project deadlines* more accurately to avoid overloading the staff.
+### *4. Individual Employee Awareness*
+*   *Spotting Red Flags:* The dashboard makes it easy to find "zero presence" records, helping HR investigate if an employee has left the company or needs support
 
-### *5. Individual Accountability*
-*   *Spotting Issues:* The dashboard makes it easy to find "red flags," such as employees with *0% presence*, helping HR investigate if someone has left the company or is facing personal challenges 
+# Conclusion
+1. The project successfully transformed manual Excel tracking into an *automated Power BI dashboard* to monitor employee attendance and work-from-home trends.
+2. It revealed that *Mondays have the highest office attendance, while **Fridays are the most popular days for working from home*.
+3. These insights allow the company to *optimize costs* through hybrid work planning and schedule team activities or office maintenance more effectively.
+4. Ultimately, it provides HR with a *scalable tool* to independently monitor workforce health and improve strategic release planning for the business.
 
