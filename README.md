@@ -21,3 +21,7 @@
 *   * Measurement of Attendance:* Attendance is measured as a * Presence Percentage *, calculated by dividing the total number of days an employee is present by the total working days.
 *   * Importance of Sick Leave:* Tracking sick leave helps detect *health trends* like COVID-19 or seasonal flu outbreaks. This allows the company to take *precautionary measures * such as increased sanitization or providing flu shots.
 *   * External Factors:* The stakeholders discussed linking attendance to external events, such as * cricket schedules * or community-specific events like * marriage seasons *, which historically impact workforce availability
+
+      # HR-AtliQ-Dashboard
+      <img width="1303" height="732" alt="Screenshot 2026-01-13 195804" src="https://github.com/user-attachments/assets/c1287009-f559-44bb-a6fa-7a3b3a808bd9" />
+
